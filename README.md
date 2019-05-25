@@ -1,1 +1,2 @@
 # Function
+all function exercises 
